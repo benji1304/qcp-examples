@@ -19,7 +19,7 @@ function debug(...args) {
     console.log(...args);
   }
 }
- 
+ /* comment here*/
 /**
  * This method is called by the calculator when the plugin is initialized.
  * @param {QuoteLineModel[]} quoteLineModels An array containing JS representations of all lines in a quote
